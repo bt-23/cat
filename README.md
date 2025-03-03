@@ -1,1 +1,1 @@
-# nicecat
+# NiceCat **Android** *GitHub方式下载*
